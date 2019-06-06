@@ -10,6 +10,7 @@ Aprovechando la ocasión creamos también un clasificador de estilos para poder 
 
 
 * [Notebook:  Reconocedor de pintores](https://nbviewer.jupyter.org/github/pyjaime/guessed-artist/blob/master/guessed_artist.ipynb) [español]
+* [Artículo en Medium: "¿Podrías adivinar el pintor de un cuadro que no conoces? Las redes neuronales sí."](https://medium.com/metadatos/podr%C3%ADas-adivinar-el-pintor-de-un-cuadro-que-no-conoces-las-redes-neuronales-s%C3%AD-4e323d62b20d?source=friends_link&sk=898c8780f2d43d7c65d73417198051bd) [español]
 
 --------------------------
 
@@ -24,4 +25,5 @@ Taking advantage of the initial purpose I also created a style classifier to cat
 * [Article in Medium: "Painting style classification with 7 lines of code"](https://medium.com/yottabytes/painting-style-classification-with-7-lines-of-code-6e7e81b3579?source=friends_link&sk=76b02cb1d54e351ce7076b9401b3742e) [english]
 
 
-* [Notebook:  Painting author recognition](https://nbviewer.jupyter.org/github/pyjaime/guessed-artist/blob/master/guessed_artist.ipynb) [spanish]
+* [Notebook:  Painting artist recognition](https://nbviewer.jupyter.org/github/pyjaime/guessed-artist/blob/master/guessed_artist.ipynb) [spanish]
+* [Article in Medium: "Could you guess the artist behind a painting you’ve never seen before? Neural networks do."](https://medium.com/yottabytes/could-you-guess-the-artist-behind-a-painting-youve-never-seen-before-neural-networks-do-7c1680044a16?source=friends_link&sk=cf4a2579f4753e0275981f2c35981b53) [english]
