@@ -1,4 +1,4 @@
-## Clasificación de obras de arte mediante Deep Learning y Python
+## [ES] Clasificación de obras de arte mediante Deep Learning y Python
 ### Uso de fastai y técnicas avanzadas en el campo de la visión artificial
 
 Revisando la aplicación de redes neuronales convolucionales al reconocimiento de imágenes me vino a la cabeza una exposición que visité dedicada a Monet y Boudin. ¿Cómo de difícil resultaría para estas redes la tarea de reconocer al autor de un cuadro? ¿Será mucho más complicado que distinguir animales en fotografías? Qué mejor que llevarlo a cabo para poder comprobarlo.
